@@ -95,7 +95,7 @@ class Main extends Component {
           </Col>
           <Col size="md-9">
             <Jumbotron>
-              <h1>Article Results</h1>
+              <h1>Search Results</h1>
             </Jumbotron>
             {this.state.articles.length ? (
               <List>

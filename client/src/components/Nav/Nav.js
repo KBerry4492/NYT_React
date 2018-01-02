@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Nav = () => (
-  <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav className="navbar navbar-expand-lg navbar-dark bg-info">
     <Link className="navbar-brand" to="/">
       NYT React App
     </Link>
@@ -21,7 +21,7 @@ const Nav = () => (
       <ul className="navbar-nav">
         <li className="nav-item">
           <Link className="nav-link" to="/">
-            Articles
+            Home
           </Link>
         </li>
         <li className="nav-item">
