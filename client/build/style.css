@@ -1,0 +1,10 @@
+body{
+	background-color:#E4F5FB;
+
+}
+
+.jumbotron{
+background-image: linear-gradient(0deg, #e4f5fb 0%, #FFFFFF 50%, #e4f5fb 100%);
+	text-shadow: 3px 2px grey;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+}
